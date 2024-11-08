@@ -70,33 +70,3 @@ void portg_init(void){
 			GPIO_PORTG_ODR |= 0x40U; // set pin 6 to high?
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
